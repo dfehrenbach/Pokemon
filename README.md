@@ -85,4 +85,4 @@ As a user, when I navigate to your app I should be taken to the main page where 
 14. Finally, the app could implement some data-persistence in the future.
 
 ### That said...
-#####I'm very proud of the project and my accomplishment of learning multiple new technologies and then building my first purely front-end application. Thank you for the inspiration! I would be more than glad to revisit any of the above items in the future!
+#####I'm very proud of the project. Thanks to my dad for the inspiration! I might revisit some of the above items in the future!
