@@ -1,6 +1,6 @@
 # Pokemon Bag App
 
-> A Vue.js project
+> A Vue.js project meant for practice in Vue.js!
 
 ## Build Setup
 
